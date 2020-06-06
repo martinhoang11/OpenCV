@@ -61,3 +61,8 @@ cv2.line(line, (60, 20), (300, 140), (0, 0, 255), 2)
 cv2.putText(line, "OpenCV + test draw line", (10, 25), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)
 cv2.imshow("Line", line)
 cv2.waitKey(0)
+
+
+
+
+
